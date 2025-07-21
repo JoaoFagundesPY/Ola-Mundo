@@ -47,3 +47,29 @@ Lista de Tarefas = Traço + Espaço + Abre e Fecha colchetes
 - [] Teste
 - [] Teste
 - [] Teste
+
+---
+
+Adicionar Links = []()
+[] Descrição
+[] Link
+
+Ex: [Linkdin](https://www.linkedin.com/in/jo%C3%A3o-fagundes-0b3262212/)
+
+---
+
+# Tabelas
+
+Texto + |
+
+| Num | Nome    | Nota |
+| --- | ------- | ---- |
+| 1   | Gustavo | 8    |
+| 2   | Luiza   | 10   |
+| 3   | Carlos  | 7    |
+
+---
+
+# Comandos e Programas
+
+Utilizar a crase (`) Para destacar comandos e Três Crases (```) Para destacar Comandos/Programas para mais de uma linha.
